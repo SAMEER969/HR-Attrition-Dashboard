@@ -4,7 +4,7 @@ Welcome to the HR Attrition Dashboard repository! This Excel-based dashboard pro
 
 ## Features
 
-**Interactive Dashboard:**Navigate through various sheets to access different sections of the dashboard, including summary statistics, trend analysis, and demographic breakdowns.
+**Interactive Dashboard:** Navigate through various sheets to access different sections of the dashboard, including summary statistics, trend analysis, and demographic breakdowns.
 
 **Visualizations:** Utilizes Excel charts and graphs to present attrition data in an intuitive and easy-to-understand format.
 
